@@ -6,24 +6,12 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
-  * [Contribute](#contributions)
-  * [Tests](#tests)
   * [Questions?](#questions)
   ## Installation
-  After cloning or downloading a local copy of the repository, from a terminal install the required dependencies that are listed in the package.json file:
-  ```
-  npm install
-  ```
-  Once the node_modules folder is created and all dependencies are downloaded, type the following in your terminal:
-  
-  ```
   Navigate to https://jlcomp-03-wk19-budget-tracker.herokuapp.com/ to test out the deployed app.
-  ```
-  The app should successfully run after having typed the above.
     
   ## Usage
-  n/a<br>
-  ![Brief GIF/video showing how to use application.](./"./assets/img/screenshot-deployed-app.JPG")
+  ![Brief GIF/video showing how to use application.](./assets/img/screenshot-deployed-app.JPG)
   ## License
   <p align="center">Copyright 2022</p>
     <p align="center">=======================================</p><br>
@@ -38,12 +26,6 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
     </details>
   Legalese borrowed from <a href="https://opensource.org/licenses/MIT" target="_blank">here</a>.
-
-  ## Contribute
-  n/a
-
-  ## Tests
-  n/a
 
   ## Questions?
   I enjoy hearing back about my work. You can reach me at jcomp_03@yahoo.com.
